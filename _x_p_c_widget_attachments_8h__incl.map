@@ -1,0 +1,23 @@
+<map id="src/Plugins/System/Simulator/xplane/SDK/CHeaders/Wrappers/XPCWidgetAttachments.h" name="src/Plugins/System/Simulator/xplane/SDK/CHeaders/Wrappers/XPCWidgetAttachments.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,5,253,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,128,59,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,82,60,120,57,116,102,78"/>
+<area shape="rect" id="Node000003" href="$_x_p_c_broadcaster_8h.html" title=" " alt="" coords="83,128,210,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,80,149,112,144,112,144,80"/>
+<area shape="rect" id="Node000006" href="$_x_p_c_widget_8h.html" title=" " alt="" coords="235,128,333,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="201,78,255,117,252,121,197,83"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="199,203,273,229"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,153,210,191,207,195,161,157"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="119,203,174,229"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="149,155,149,187,144,187,144,155"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="278,157,255,191,250,188,273,154"/>
+<area shape="poly" id="edge11_Node000006_Node000005" title=" " alt="" coords="261,158,185,197,183,193,259,153"/>
+<area shape="rect" id="Node000007" href="$_x_p_widgets_8h.html" title=" " alt="" coords="297,203,394,229"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="297,153,327,189,323,193,293,157"/>
+<area shape="rect" id="Node000008" href="$_x_p_widget_defs_8h.html" title=" " alt="" coords="288,277,403,304"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="348,230,348,262,343,262,343,230"/>
+<area shape="rect" id="Node000009" href="$_x_p_l_m_defs_8h.html" title=" " alt="" coords="299,352,392,379"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="348,305,348,336,343,336,343,305"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="313,427,378,453"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="348,379,348,411,343,411,343,379"/>
+</map>

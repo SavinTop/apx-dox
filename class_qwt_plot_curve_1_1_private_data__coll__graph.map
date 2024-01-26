@@ -1,0 +1,7 @@
+<map id="QwtPlotCurve::PrivateData" name="QwtPlotCurve::PrivateData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,96,196,123"/>
+<area shape="rect" id="Node000002" href="$class_qwt_symbol.html" title="A class for drawing symbols." alt="" coords="5,5,94,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,44,103,94,99,97,64,47"/>
+<area shape="rect" id="Node000003" href="$class_qwt_curve_fitter.html" title="Abstract base class for a curve fitter." alt="" coords="118,5,224,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,47,140,74,122,97,118,94,135,70,153,44"/>
+</map>

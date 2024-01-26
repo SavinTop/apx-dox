@@ -1,0 +1,11 @@
+<map id="src/Plugins/Windows/TelemetryChart/TelemetryPlot.h" name="src/Plugins/Windows/TelemetryChart/TelemetryPlot.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="269,5,477,48"/>
+<area shape="rect" id="Node000002" href="$_telemetry_frame_8h.html" title=" " alt="" coords="139,96,361,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,59,280,98,277,93,331,55"/>
+<area shape="rect" id="Node000005" href="$_telemetry_plot_8cpp.html" title=" " alt="" coords="386,96,608,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="415,55,469,93,466,98,412,59"/>
+<area shape="rect" id="Node000003" href="$_telemetry_frame_8cpp.html" title=" " alt="" coords="5,187,242,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,150,155,188,152,184,207,146"/>
+<area shape="rect" id="Node000004" href="$_telemetry_plugin_8h.html" title=" " alt="" coords="266,187,488,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="294,146,349,184,346,188,291,150"/>
+</map>

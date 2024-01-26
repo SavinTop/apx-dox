@@ -1,0 +1,51 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_series_store.h" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_series_store.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1114,5,1258,64"/>
+<area shape="rect" id="Node000002" href="$qwt__plot__seriesitem_8h.html" title=" " alt="" coords="1110,112,1262,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1189,80,1189,112,1183,112,1183,80"/>
+<area shape="rect" id="Node000003" href="$qwt__plot__abstract__barchart_8h.html" title=" " alt="" coords="303,219,495,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1095,157,496,237,495,231,1094,152"/>
+<area shape="rect" id="Node000009" href="$qwt__plot__curve_8h.html" title=" " alt="" coords="654,219,798,277"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1095,160,960,186,810,221,799,225,797,219,809,216,959,181,1094,155"/>
+<area shape="rect" id="Node000016" href="$qwt__plot__directpainter_8cpp.html" title=" " alt="" coords="822,219,998,277"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="1097,179,986,221,985,216,1095,174"/>
+<area shape="rect" id="Node000017" href="$qwt__plot__histogram_8h.html" title=" " alt="" coords="1022,219,1171,277"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="1154,184,1123,220,1119,217,1150,181"/>
+<area shape="rect" id="Node000019" href="$qwt__plot__intervalcurve_8h.html" title=" " alt="" coords="1195,219,1356,277"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="1222,181,1253,217,1249,220,1218,184"/>
+<area shape="rect" id="Node000021" href="$qwt__plot__seriesitem_8cpp.html" title=" " alt="" coords="1381,219,1546,277"/>
+<area shape="poly" id="edge20_Node000002_Node000021" title=" " alt="" coords="1277,174,1388,216,1386,221,1275,179"/>
+<area shape="rect" id="Node000022" href="$qwt__plot__spectrocurve_8h.html" title=" " alt="" coords="1570,219,1735,277"/>
+<area shape="poly" id="edge21_Node000002_Node000022" title=" " alt="" coords="1277,156,1411,183,1558,216,1571,219,1569,224,1557,221,1409,188,1276,162"/>
+<area shape="rect" id="Node000024" href="$qwt__plot__tradingcurve_8h.html" title=" " alt="" coords="1766,219,1926,277"/>
+<area shape="poly" id="edge23_Node000002_Node000024" title=" " alt="" coords="1277,148,1493,174,1621,193,1748,216,1766,220,1765,225,1747,221,1620,198,1492,179,1277,154"/>
+<area shape="rect" id="Node000004" href="$qwt__plot__abstract__barchart_8cpp.html" title=" " alt="" coords="5,325,212,384"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,285,189,327,187,322,304,280"/>
+<area shape="rect" id="Node000005" href="$qwt__plot__barchart_8h.html" title=" " alt="" coords="236,325,379,384"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="366,291,334,327,330,323,362,287"/>
+<area shape="rect" id="Node000007" href="$qwt__plot__multi__barchart_8h.html" title=" " alt="" coords="403,325,577,384"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="436,288,467,323,463,327,432,291"/>
+<area shape="rect" id="Node000006" href="$qwt__plot__barchart_8cpp.html" title=" " alt="" coords="220,432,373,491"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="305,400,302,432,297,431,300,399"/>
+<area shape="rect" id="Node000008" href="$qwt__plot__multi__barchart_8cpp.html" title=" " alt="" coords="396,432,584,491"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="493,400,493,432,487,432,487,400"/>
+<area shape="rect" id="Node000010" href="$_telemetry_plot_8h.html" title=" " alt="" coords="615,333,823,376"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="726,293,723,333,718,333,720,293"/>
+<area shape="rect" id="Node000015" href="$qwt__plot__curve_8cpp.html" title=" " alt="" coords="848,325,991,384"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="793,283,867,322,865,327,791,287"/>
+<area shape="rect" id="Node000011" href="$_telemetry_frame_8h.html" title=" " alt="" coords="608,440,830,483"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="722,392,722,439,717,439,717,392"/>
+<area shape="rect" id="Node000014" href="$_telemetry_plot_8cpp.html" title=" " alt="" coords="855,440,1077,483"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="783,380,918,437,916,442,781,385"/>
+<area shape="rect" id="Node000012" href="$_telemetry_frame_8cpp.html" title=" " alt="" coords="474,539,711,581"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="682,494,621,540,618,536,678,490"/>
+<area shape="rect" id="Node000013" href="$_telemetry_plugin_8h.html" title=" " alt="" coords="735,539,957,581"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="760,490,820,536,817,540,757,494"/>
+<area shape="rect" id="Node000018" href="$qwt__plot__histogram_8cpp.html" title=" " alt="" coords="1015,325,1178,384"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="1099,293,1099,325,1094,325,1094,293"/>
+<area shape="rect" id="Node000020" href="$qwt__plot__intervalcurve_8cpp.html" title=" " alt="" coords="1202,325,1378,384"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="1284,292,1288,325,1283,325,1279,293"/>
+<area shape="rect" id="Node000023" href="$qwt__plot__spectrocurve_8cpp.html" title=" " alt="" coords="1561,325,1739,384"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="1654,293,1653,325,1648,325,1649,293"/>
+<area shape="rect" id="Node000025" href="$qwt__plot__tradingcurve_8cpp.html" title=" " alt="" coords="1763,325,1937,384"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="1850,293,1851,325,1846,325,1845,293"/>
+</map>

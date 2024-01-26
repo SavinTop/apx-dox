@@ -1,0 +1,23 @@
+<map id="QwtPlotSeriesItem" name="QwtPlotSeriesItem">
+<area shape="rect" id="Node000001" title="Base class for plot items representing a series of samples." alt="" coords="215,157,344,184"/>
+<area shape="rect" id="Node000004" href="$class_qwt_plot_abstract_bar_chart.html" title="Abstract base class for bar chart items." alt="" coords="392,31,559,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="300,144,340,105,391,67,416,56,418,60,393,72,343,109,304,148"/>
+<area shape="rect" id="Node000007" href="$class_qwt_plot_curve.html" title="A plot item, that represents a series of points." alt="" coords="426,81,525,108"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="321,148,391,118,425,106,427,111,393,122,323,153"/>
+<area shape="rect" id="Node000008" href="$class_qwt_plot_histogram.html" title="QwtPlotHistogram represents a series of samples, where an interval is associated with a value ( &#160;)." alt="" coords="413,132,539,159"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="359,158,412,151,413,156,360,163"/>
+<area shape="rect" id="Node000009" href="$class_qwt_plot_interval_curve.html" title="QwtPlotIntervalCurve represents a series of samples, where each value is associated with an interval ..." alt="" coords="406,183,545,209"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="360,178,406,184,405,190,359,184"/>
+<area shape="rect" id="Node000010" href="$class_qwt_plot_spectro_curve.html" title="Curve that displays 3D points as dots, where the z coordinate is mapped to a color." alt="" coords="404,233,548,260"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="323,189,393,219,426,230,424,235,391,224,321,194"/>
+<area shape="rect" id="Node000011" href="$class_qwt_plot_trading_curve.html" title="QwtPlotTradingCurve illustrates movements in the price of a financial instrument over time." alt="" coords="405,284,546,311"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="304,194,343,233,393,270,418,281,416,286,391,274,340,237,300,197"/>
+<area shape="rect" id="Node000002" href="$class_qwt_plot_item.html" title="Base class for items on the plot canvas." alt="" coords="40,132,132,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,151,214,160,214,165,147,156"/>
+<area shape="rect" id="Node000003" href="$class_qwt_abstract_series_store.html" title="Bridge between QwtSeriesStore and QwtPlotSeriesItem." alt="" coords="5,183,167,209"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,181,214,176,215,182,182,186"/>
+<area shape="rect" id="Node000005" href="$class_qwt_plot_bar_chart.html" title="QwtPlotBarChart displays a series of a values as bars." alt="" coords="621,5,740,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="575,29,621,23,621,29,575,34"/>
+<area shape="rect" id="Node000006" href="$class_qwt_plot_multi_bar_chart.html" title="QwtPlotMultiBarChart displays a series of a samples that consist each of a set of values." alt="" coords="607,56,754,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="575,54,607,58,607,63,575,59"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="src/lib/ApxCore/ApxMisc/QueueWorker.h" name="src/lib/ApxCore/ApxMisc/QueueWorker.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="373,5,538,48"/>
+<area shape="rect" id="Node000002" href="$_queue_job_8h.html" title=" " alt="" coords="89,96,254,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,56,239,98,237,93,374,51"/>
+<area shape="rect" id="Node000009" href="$_queue_worker_8cpp.html" title=" " alt="" coords="278,96,444,139"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="424,61,384,98,381,94,421,57"/>
+<area shape="rect" id="Node000010" href="$_telemetry_export_8h.html" title=" " alt="" coords="467,96,636,139"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="491,57,531,94,528,98,487,61"/>
+<area shape="rect" id="Node000012" href="$_telemetry_import_8h.html" title=" " alt="" coords="659,96,828,139"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="538,50,677,93,675,98,537,56"/>
+<area shape="rect" id="Node000003" href="$_queue_job_8cpp.html" title=" " alt="" coords="61,187,226,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,154,153,187,147,186,158,153"/>
+<area shape="rect" id="Node000004" href="$_telemetry_share_8h.html" title=" " alt="" coords="250,187,418,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="224,144,298,184,295,189,222,149"/>
+<area shape="rect" id="Node000005" href="$_telemetry_frame_8cpp.html" title=" " alt="" coords="5,277,242,320"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="272,238,174,279,172,274,270,233"/>
+<area shape="rect" id="Node000006" href="$_app_menu_8cpp.html" title=" " alt="" coords="266,277,400,320"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="336,245,336,277,330,277,331,245"/>
+<area shape="rect" id="Node000007" href="$_telemetry_8cpp.html" title=" " alt="" coords="425,277,593,320"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="390,234,469,274,467,279,387,239"/>
+<area shape="rect" id="Node000008" href="$_telemetry_share_8cpp.html" title=" " alt="" coords="617,277,785,320"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="434,231,617,274,615,280,433,236"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="524,152,512,171,503,190,500,210,507,228,523,241,549,254,617,276,615,281,547,259,520,246,503,231,495,210,498,189,507,168,520,149"/>
+<area shape="rect" id="Node000011" href="$_telemetry_export_8cpp.html" title=" " alt="" coords="517,187,685,229"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="573,151,592,185,587,188,568,154"/>
+<area shape="poly" id="edge14_Node000012_Node000008" title=" " alt="" coords="738,155,708,278,703,276,732,153"/>
+<area shape="rect" id="Node000013" href="$_telemetry_import_8cpp.html" title=" " alt="" coords="759,187,928,229"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="780,147,822,184,818,188,776,151"/>
+</map>

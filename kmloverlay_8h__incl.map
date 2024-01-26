@@ -1,0 +1,30 @@
+<map id="src/Plugins/MapView/KmlOverlay/kmloverlay.h" name="src/Plugins/MapView/KmlOverlay/kmloverlay.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="532,5,699,48"/>
+<area shape="rect" id="Node000002" href="$kmlpolygonsmodel_8h.html" title=" " alt="" coords="313,96,454,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="557,51,436,93,434,88,555,46"/>
+<area shape="rect" id="Node000010" href="$_fact_8h.html" title=" " alt="" coords="531,96,620,123"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="608,50,591,83,586,81,603,47"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="584,320,647,347"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="624,48,634,96,641,184,634,272,627,306,622,305,629,272,636,184,629,96,619,49"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="695,96,779,123"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="648,46,707,85,704,89,645,51"/>
+<area shape="rect" id="Node000003" href="$kmlparser_8h.html" title=" " alt="" coords="148,171,238,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="351,126,241,167,239,162,349,121"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="262,171,398,197"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="376,125,351,160,346,157,372,122"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="423,171,509,197"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="400,121,442,158,439,162,396,125"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,245,82,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="168,200,85,240,82,236,166,195"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="106,245,168,272"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="185,200,158,235,154,231,181,196"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="192,245,309,272"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="205,196,233,231,229,235,201,200"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="332,245,435,272"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="227,195,337,237,335,242,225,200"/>
+<area shape="rect" id="Node000011" href="$_fact_data_8h.html" title=" " alt="" coords="533,171,618,197"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="578,123,578,155,573,155,573,123"/>
+<area shape="rect" id="Node000012" href="$_fact_base_8h.html" title=" " alt="" coords="531,245,620,272"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="578,198,578,230,573,230,573,198"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="585,271,604,305,599,308,580,274"/>
+</map>

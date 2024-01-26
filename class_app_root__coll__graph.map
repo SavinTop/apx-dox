@@ -1,0 +1,16 @@
+<map id="AppRoot" name="AppRoot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,484,81,511"/>
+<area shape="rect" id="Node000002" href="$class_fact.html" title=" " alt="" coords="60,233,107,260"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,267,28,286,12,319,8,348,18,419,29,459,40,482,35,485,24,461,13,421,3,349,7,317,24,282,44,263"/>
+<area shape="poly" id="edge8_Node000001_Node000002" title=" " alt="" coords="78,276,59,356,51,428,48,484,43,483,46,428,54,356,73,274"/>
+<area shape="rect" id="Node000006" href="$class_app_settings.html" title=" " alt="" coords="168,375,260,401"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="107,270,163,330,204,372,200,376,159,334,103,274"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="123,259,142,269,160,282,179,305,194,330,213,373,208,375,190,332,175,308,156,286,140,273,121,263"/>
+<area shape="rect" id="Node000003" href="$class_fact_data.html" title=" " alt="" coords="46,157,121,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,199,86,233,81,233,81,199"/>
+<area shape="rect" id="Node000004" href="$class_fact_base.html" title=" " alt="" coords="45,81,122,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="86,123,86,157,81,157,81,123"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="49,5,118,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="86,47,86,81,81,81,81,47"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="183,412,66,486,64,481,180,408"/>
+</map>

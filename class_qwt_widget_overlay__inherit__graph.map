@@ -1,0 +1,9 @@
+<map id="QwtWidgetOverlay" name="QwtWidgetOverlay">
+<area shape="rect" id="Node000001" title="An overlay for a widget." alt="" coords="96,80,225,107"/>
+<area shape="rect" id="Node000003" href="$class_qwt_picker_rubberband.html" title=" " alt="" coords="5,155,156,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,119,96,156,92,152,134,115"/>
+<area shape="rect" id="Node000004" href="$class_qwt_picker_tracker.html" title=" " alt="" coords="180,155,304,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,115,230,152,226,156,184,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="124,5,197,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,48,163,80,158,80,158,48"/>
+</map>

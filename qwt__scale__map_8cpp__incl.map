@@ -1,0 +1,23 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_scale_map.cpp" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_scale_map.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="215,5,358,64"/>
+<area shape="rect" id="Node000002" href="$qwt__scale__map_8h.html" title=" " alt="" coords="176,112,298,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,66,254,100,249,97,268,63"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="305,187,366,213"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="298,64,313,111,331,171,326,173,308,113,293,65"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="391,187,465,213"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="313,63,409,173,405,176,309,66"/>
+<area shape="rect" id="Node000008" href="$qwt__math_8h.html" title=" " alt="" coords="13,112,101,139"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="216,66,105,108,103,104,214,61"/>
+<area shape="rect" id="Node000003" href="$qwt__global_8h.html" title=" " alt="" coords="82,261,176,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,142,183,161,157,188,142,217,135,247,130,246,137,215,152,185,180,157,210,137"/>
+<area shape="rect" id="Node000005" href="$qwt__transform_8h.html" title=" " alt="" coords="167,187,280,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="237,140,231,172,226,171,232,139"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="256,137,308,175,305,180,253,141"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="271,137,381,178,379,183,269,142"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="92,336,166,363"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="132,289,132,320,126,320,126,289"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="209,216,159,254,156,250,206,212"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="44,141,29,156,15,174,9,194,13,212,37,237,69,255,66,259,34,242,8,215,3,193,11,172,25,153,40,137"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="23,187,91,213"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="60,139,60,171,54,171,54,139"/>
+</map>

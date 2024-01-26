@@ -1,0 +1,31 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_counter.cpp" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_counter.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,5,585,64"/>
+<area shape="rect" id="Node000002" href="$qwt__arrow__button_8h.html" title=" " alt="" coords="268,112,401,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,67,374,107,372,102,454,62"/>
+<area shape="rect" id="Node000006" href="$qwt__math_8h.html" title=" " alt="" coords="29,112,117,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="441,53,133,114,132,109,440,47"/>
+<area shape="rect" id="Node000008" href="$qwt__counter_8h.html" title=" " alt="" coords="142,112,244,139"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="441,58,254,110,253,105,440,53"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="425,112,499,139"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="499,66,479,100,475,97,494,63"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="523,112,604,139"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="531,63,551,97,546,100,527,66"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="628,112,715,139"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="566,62,637,102,635,107,563,67"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="738,112,808,139"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="586,58,724,105,723,110,584,63"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="831,112,899,139"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="585,51,817,109,816,114,584,56"/>
+<area shape="rect" id="Node000003" href="$qwt__global_8h.html" title=" " alt="" coords="98,187,192,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,142,193,183,191,178,300,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="316,187,419,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="342,138,358,171,353,174,338,140"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="108,261,182,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="148,214,148,246,142,246,142,214"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="87,137,124,174,120,177,83,141"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,187,74,213"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="69,140,54,174,49,171,65,138"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="187,141,164,175,159,172,182,138"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="216,187,292,213"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="206,137,236,173,232,177,201,141"/>
+</map>

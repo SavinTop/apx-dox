@@ -1,0 +1,12 @@
+<map id="src/Plugins/System/Joystick/JoystickAxis.h" name="src/Plugins/System/Joystick/JoystickAxis.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,168,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="55,320,118,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,49,74,96,68,184,74,272,81,305,76,306,69,272,63,184,69,96,78,48"/>
+<area shape="rect" id="Node000003" href="$_fact_8h.html" title=" " alt="" coords="84,96,172,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,47,117,81,112,83,95,50"/>
+<area shape="rect" id="Node000004" href="$_fact_data_8h.html" title=" " alt="" coords="85,171,171,197"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,123,131,155,125,155,125,123"/>
+<area shape="rect" id="Node000005" href="$_fact_base_8h.html" title=" " alt="" coords="84,245,172,272"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="131,198,131,230,125,230,125,198"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="123,274,103,308,99,305,118,271"/>
+</map>

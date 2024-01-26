@@ -1,0 +1,12 @@
+<map id="JoystickAxis" name="JoystickAxis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,324,101,351"/>
+<area shape="rect" id="Node000002" href="$class_fact.html" title=" " alt="" coords="29,233,77,260"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,276,53,284,54,324,49,324,48,284,48,276"/>
+<area shape="poly" id="edge5_Node000001_Node000002" title=" " alt="" coords="56,276,56,323,50,323,50,276"/>
+<area shape="rect" id="Node000003" href="$class_fact_data.html" title=" " alt="" coords="16,157,90,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="56,199,56,233,50,233,50,199"/>
+<area shape="rect" id="Node000004" href="$class_fact_base.html" title=" " alt="" coords="14,81,92,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="56,123,56,157,50,157,50,123"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="18,5,88,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="56,47,56,81,50,81,50,47"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_text.h" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_text.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="179,5,322,64"/>
+<area shape="rect" id="Node000002" href="$qwt__global_8h.html" title=" " alt="" coords="5,112,99,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,67,95,108,93,103,185,62"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="123,112,194,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,66,184,103,181,99,219,62"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="219,112,282,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="253,64,253,96,248,96,248,64"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="306,112,366,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="280,62,315,99,311,102,276,66"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="391,112,484,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="312,62,398,103,396,107,310,67"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="15,187,89,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,139,55,171,49,171,49,139"/>
+</map>

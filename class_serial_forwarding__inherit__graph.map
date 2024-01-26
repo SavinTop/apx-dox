@@ -1,0 +1,13 @@
+<map id="SerialForwarding" name="SerialForwarding">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,379,123,405"/>
+<area shape="rect" id="Node000002" href="$class_port_forwarding.html" title=" " alt="" coords="10,304,118,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,346,67,378,61,378,61,346"/>
+<area shape="rect" id="Node000003" href="$class_fact.html" title=" " alt="" coords="40,229,88,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,272,67,304,61,304,61,272"/>
+<area shape="rect" id="Node000004" href="$class_fact_data.html" title=" " alt="" coords="27,155,101,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="67,197,67,229,61,229,61,197"/>
+<area shape="rect" id="Node000005" href="$class_fact_base.html" title=" " alt="" coords="25,80,103,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="67,122,67,154,61,154,61,122"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="29,5,99,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="67,48,67,80,61,80,61,48"/>
+</map>

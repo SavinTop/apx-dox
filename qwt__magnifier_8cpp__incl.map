@@ -1,0 +1,20 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_magnifier.cpp" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_magnifier.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="190,5,333,64"/>
+<area shape="rect" id="Node000002" href="$qwt__magnifier_8h.html" title=" " alt="" coords="31,112,142,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,67,126,107,124,102,203,62"/>
+<area shape="rect" id="Node000006" href="$qwt__math_8h.html" title=" " alt="" coords="166,112,255,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="247,66,228,100,223,97,243,63"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="279,112,348,139"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="280,63,300,97,296,100,276,66"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="372,112,449,139"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="311,62,378,102,375,106,308,67"/>
+<area shape="rect" id="Node000003" href="$qwt__global_8h.html" title=" " alt="" coords="104,187,197,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,137,131,173,127,177,96,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,187,80,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="81,141,60,175,56,172,77,138"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="114,261,187,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="153,214,153,246,148,246,148,214"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="202,141,172,177,168,173,198,138"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="222,187,290,213"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="221,138,242,172,238,175,216,141"/>
+</map>

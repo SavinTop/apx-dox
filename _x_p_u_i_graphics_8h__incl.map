@@ -1,0 +1,9 @@
+<map id="src/Plugins/System/Simulator/xplane/SDK/CHeaders/Widgets/XPUIGraphics.h" name="src/Plugins/System/Simulator/xplane/SDK/CHeaders/Widgets/XPUIGraphics.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,235,64"/>
+<area shape="rect" id="Node000002" href="$_x_p_widget_defs_8h.html" title=" " alt="" coords="62,112,178,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,64,123,96,117,96,117,64"/>
+<area shape="rect" id="Node000003" href="$_x_p_l_m_defs_8h.html" title=" " alt="" coords="74,187,166,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,139,123,171,117,171,117,139"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="88,261,152,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,214,123,246,117,246,117,214"/>
+</map>

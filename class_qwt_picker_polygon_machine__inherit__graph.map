@@ -1,0 +1,5 @@
+<map id="QwtPickerPolygonMachine" name="QwtPickerPolygonMachine">
+<area shape="rect" id="Node000001" title="A state machine for polygon selections." alt="" coords="5,80,183,107"/>
+<area shape="rect" id="Node000002" href="$class_qwt_picker_machine.html" title="A state machine for QwtPicker selections." alt="" coords="29,5,159,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,48,97,80,91,80,91,48"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="src/Plugins/MapView/KmlOverlay/kmlpolygonsmodel.h" name="src/Plugins/MapView/KmlOverlay/kmlpolygonsmodel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,5,437,48"/>
+<area shape="rect" id="Node000002" href="$kmlparser_8h.html" title=" " alt="" coords="148,96,238,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,51,229,90,226,85,293,46"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="262,96,398,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="333,49,333,80,328,80,328,49"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="423,96,509,123"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="367,46,433,85,430,90,364,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,171,82,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="168,126,85,166,82,161,166,121"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="106,171,168,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="185,125,158,160,154,157,181,122"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="192,171,309,197"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="205,122,233,157,229,160,201,125"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="332,171,435,197"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="227,121,337,162,335,167,225,126"/>
+</map>

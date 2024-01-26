@@ -1,0 +1,7 @@
+<map id="QwtPlotScaleItem::PrivateData" name="QwtPlotScaleItem::PrivateData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,205,199"/>
+<area shape="rect" id="Node000002" href="$class_qwt_scale_draw.html" title="A class for drawing scales." alt="" coords="52,81,158,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,124,108,171,102,171,102,124"/>
+<area shape="rect" id="Node000003" href="$class_qwt_abstract_scale_draw.html" title="A abstract base class for drawing scales." alt="" coords="27,5,183,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,47,108,81,102,81,102,47"/>
+</map>

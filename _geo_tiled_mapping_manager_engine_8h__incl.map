@@ -1,0 +1,9 @@
+<map id="src/Plugins/MapView/Location/GeoTiledMappingManagerEngine.h" name="src/Plugins/MapView/Location/GeoTiledMappingManagerEngine.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="190,5,418,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,120,216,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,67,151,115,148,110,245,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="240,112,368,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,64,307,97,301,97,301,64"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="392,112,632,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="367,62,454,103,452,107,365,67"/>
+</map>

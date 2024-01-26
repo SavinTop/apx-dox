@@ -1,0 +1,9 @@
+<map id="src/lib/ApxGcs/Telemetry/TelemetryRecorder.h" name="src/lib/ApxGcs/Telemetry/TelemetryRecorder.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="240,5,408,48"/>
+<area shape="rect" id="Node000002" href="$_blackbox_reader_8cpp.html" title=" " alt="" coords="5,96,216,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,57,162,98,160,93,259,52"/>
+<area shape="rect" id="Node000003" href="$_telemetry_8cpp.html" title=" " alt="" coords="240,96,408,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,64,327,96,321,96,321,64"/>
+<area shape="rect" id="Node000004" href="$_telemetry_recorder_8cpp.html" title=" " alt="" coords="432,96,600,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="384,53,472,93,470,98,382,57"/>
+</map>

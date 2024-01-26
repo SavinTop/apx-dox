@@ -1,0 +1,20 @@
+<map id="QwtSymbol::PrivateData" name="QwtSymbol::PrivateData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="813,147,976,173"/>
+<area shape="rect" id="Node000002" href="$struct_qwt_symbol_1_1_private_data_1_1_path.html" title=" " alt="" coords="539,5,701,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="706,51,720,58,807,103,874,144,871,149,804,108,718,62,704,56"/>
+<area shape="rect" id="Node000003" href="$class_qwt_graphic.html" title="A paint device for scalable graphics." alt="" coords="338,48,427,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,50,538,36,539,41,443,55"/>
+<area shape="rect" id="Node000007" href="$struct_qwt_symbol_1_1_private_data_1_1_graphic.html" title=" " alt="" coords="539,72,701,115"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="443,73,451,75,539,85,538,91,451,80,442,78"/>
+<area shape="rect" id="Node000004" href="$class_qwt_null_paint_device.html" title="A null paint device doing nothing." alt="" coords="154,48,288,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="304,59,337,59,337,64,304,64"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,48,105,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="120,59,154,59,154,64,120,64"/>
+<area shape="rect" id="Node000006" href="$struct_qwt_symbol_1_1_private_data_1_1_pixmap.html" title=" " alt="" coords="539,139,701,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="717,157,813,157,813,163,717,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="717,114,837,143,836,149,716,119"/>
+<area shape="rect" id="Node000008" href="$struct_qwt_symbol_1_1_private_data_1_1_s_v_g.html" title=" " alt="" coords="521,205,719,232"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="700,199,828,171,829,177,701,204"/>
+<area shape="rect" id="Node000009" href="$struct_qwt_symbol_1_1_private_data_1_1_paint_cache.html" title=" " alt="" coords="539,256,701,299"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="702,248,718,242,800,205,867,171,869,176,802,210,720,246,704,253"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="zip64_internal" name="zip64_internal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="182,235,284,261"/>
+<area shape="rect" id="Node000002" href="$structzlib__filefunc64__32__def__s.html" title=" " alt="" coords="22,128,145,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,178,171,208,211,232,208,236,168,213,122,182"/>
+<area shape="rect" id="Node000003" href="$structzlib__filefunc64__def__s.html" title=" " alt="" coords="5,13,146,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,55,85,127,79,128,75,55"/>
+<area shape="rect" id="Node000004" href="$structlinkedlist__data__s.html" title=" " alt="" coords="174,136,292,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,178,236,234,230,234,230,178"/>
+<area shape="rect" id="Node000005" href="$structlinkedlist__datablock__internal__s.html" title=" " alt="" coords="169,5,305,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,64,236,136,231,136,233,64"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="322,17,331,27,323,36,305,40,304,35,320,32,326,27,318,20"/>
+<area shape="rect" id="Node000006" href="$structcurfile64__info.html" title=" " alt="" coords="317,136,413,163"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="345,176,304,213,263,236,260,232,301,209,342,172"/>
+</map>

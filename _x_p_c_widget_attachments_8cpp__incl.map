@@ -1,0 +1,31 @@
+<map id="src/Plugins/System/Simulator/xplane/SDK/CHeaders/Wrappers/XPCWidgetAttachments.cpp" name="src/Plugins/System/Simulator/xplane/SDK/CHeaders/Wrappers/XPCWidgetAttachments.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,5,342,80"/>
+<area shape="rect" id="Node000002" href="$_x_p_c_widget_attachments_8h.html" title=" " alt="" coords="317,128,490,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,78,370,118,367,122,298,83"/>
+<area shape="rect" id="Node000012" href="$_x_p_standard_widgets_8h.html" title=" " alt="" coords="5,128,154,155"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="177,83,114,122,111,117,175,78"/>
+<area shape="rect" id="Node000013" href="$_x_p_widget_utils_8h.html" title=" " alt="" coords="178,128,293,155"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="238,80,238,112,233,112,233,80"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="377,203,430,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,155,406,187,401,187,401,155"/>
+<area shape="rect" id="Node000004" href="$_x_p_c_broadcaster_8h.html" title=" " alt="" coords="455,203,582,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="425,153,487,192,484,196,422,157"/>
+<area shape="rect" id="Node000007" href="$_x_p_c_widget_8h.html" title=" " alt="" coords="254,203,353,229"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="388,157,335,195,332,191,385,153"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="474,277,549,304"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="520,230,517,262,511,261,514,230"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="388,277,443,304"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="502,232,448,270,445,266,499,228"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="341,227,462,269,460,274,339,232"/>
+<area shape="poly" id="edge12_Node000007_Node000006" title=" " alt="" coords="324,228,385,266,382,271,322,232"/>
+<area shape="rect" id="Node000008" href="$_x_p_widgets_8h.html" title=" " alt="" coords="254,277,350,304"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="306,230,305,262,300,262,301,230"/>
+<area shape="rect" id="Node000009" href="$_x_p_widget_defs_8h.html" title=" " alt="" coords="159,352,275,379"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="289,307,245,344,241,340,286,303"/>
+<area shape="rect" id="Node000010" href="$_x_p_l_m_defs_8h.html" title=" " alt="" coords="171,427,263,453"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="220,379,220,411,214,411,214,379"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="185,501,249,528"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="220,454,220,486,214,486,214,454"/>
+<area shape="poly" id="edge14_Node000012_Node000009" title=" " alt="" coords="90,154,203,337,199,340,85,157"/>
+<area shape="poly" id="edge16_Node000013_Node000009" title=" " alt="" coords="237,155,222,337,216,337,232,155"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="QwtPickerRubberband" name="QwtPickerRubberband">
+<area shape="rect" id="Node000001" title=" " alt="" coords="58,172,209,199"/>
+<area shape="rect" id="Node000002" href="$class_qwt_widget_overlay.html" title="An overlay for a widget." alt="" coords="5,81,134,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,119,127,170,122,173,85,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="33,5,106,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="72,47,72,81,67,81,67,47"/>
+<area shape="rect" id="Node000004" href="$class_qwt_picker.html" title="QwtPicker provides selections on a widget." alt="" coords="158,81,240,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,122,145,173,141,170,178,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="147,5,216,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="190,46,199,80,193,82,185,47"/>
+<area shape="rect" id="Node000006" href="$class_qwt_event_pattern.html" title="A collection of event patterns." alt="" coords="240,5,358,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="271,44,217,83,214,79,268,39"/>
+</map>

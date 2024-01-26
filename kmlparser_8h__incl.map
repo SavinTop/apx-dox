@@ -1,0 +1,11 @@
+<map id="src/Plugins/MapView/KmlOverlay/kmlparser.h" name="src/Plugins/MapView/KmlOverlay/kmlparser.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,5,275,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,82,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,51,81,91,79,86,153,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="106,96,168,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,50,156,85,152,82,176,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,96,309,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,47,235,82,230,85,205,50"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="332,96,435,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="243,46,341,87,339,92,241,51"/>
+</map>

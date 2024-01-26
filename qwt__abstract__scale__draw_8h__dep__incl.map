@@ -1,0 +1,62 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_abstract_scale_draw.h" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_abstract_scale_draw.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="394,5,576,64"/>
+<area shape="rect" id="Node000002" href="$qwt__abstract__scale__draw_8cpp.html" title=" " alt="" coords="5,112,202,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="379,68,203,116,202,111,378,62"/>
+<area shape="rect" id="Node000003" href="$qwt__abstract__slider_8cpp.html" title=" " alt="" coords="226,112,389,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="425,74,357,114,355,109,422,70"/>
+<area shape="rect" id="Node000004" href="$qwt__dial_8h.html" title=" " alt="" coords="413,112,557,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="488,80,488,112,482,112,482,80"/>
+<area shape="rect" id="Node000008" href="$qwt__round__scale__draw_8h.html" title=" " alt="" coords="581,112,749,171"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="548,70,617,109,614,114,546,74"/>
+<area shape="rect" id="Node000010" href="$qwt__scale__draw_8h.html" title=" " alt="" coords="1329,112,1473,171"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="592,45,1329,129,1329,134,591,51"/>
+<area shape="rect" id="Node000005" href="$qwt__analog__clock_8h.html" title=" " alt="" coords="281,219,425,277"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="439,182,391,220,387,216,435,178"/>
+<area shape="rect" id="Node000007" href="$qwt__dial_8cpp.html" title=" " alt="" coords="449,219,593,277"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="502,185,514,217,508,219,497,186"/>
+<area shape="rect" id="Node000006" href="$qwt__analog__clock_8cpp.html" title=" " alt="" coords="415,325,568,384"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="404,285,455,323,452,327,401,289"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="655,186,636,233,607,279,579,305,549,327,546,323,576,301,603,276,631,231,650,184"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="615,182,562,220,559,216,612,178"/>
+<area shape="rect" id="Node000009" href="$qwt__round__scale__draw_8cpp.html" title=" " alt="" coords="668,219,849,277"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="702,180,735,217,731,220,698,184"/>
+<area shape="rect" id="Node000011" href="$qwt__abstract__scale_8cpp.html" title=" " alt="" coords="873,219,1035,277"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1314,162,1188,188,1048,221,1036,224,1035,219,1047,216,1187,183,1313,157"/>
+<area shape="rect" id="Node000012" href="$qwt__date__scale__draw_8h.html" title=" " alt="" coords="1059,219,1220,277"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="1316,179,1212,221,1210,216,1314,174"/>
+<area shape="rect" id="Node000014" href="$qwt__plot__scaleitem_8h.html" title=" " alt="" coords="1243,219,1391,277"/>
+<area shape="poly" id="edge15_Node000010_Node000014" title=" " alt="" coords="1370,185,1342,220,1338,217,1366,181"/>
+<area shape="rect" id="Node000021" href="$qwt__scale__draw_8cpp.html" title=" " alt="" coords="1415,219,1558,277"/>
+<area shape="poly" id="edge22_Node000010_Node000021" title=" " alt="" coords="1436,181,1465,217,1461,220,1432,184"/>
+<area shape="rect" id="Node000022" href="$qwt__scale__widget_8h.html" title=" " alt="" coords="1583,219,1726,277"/>
+<area shape="poly" id="edge23_Node000010_Node000022" title=" " alt="" coords="1486,175,1586,216,1584,221,1483,179"/>
+<area shape="rect" id="Node000028" href="$qwt__slider_8cpp.html" title=" " alt="" coords="1751,219,1894,277"/>
+<area shape="poly" id="edge30_Node000010_Node000028" title=" " alt="" coords="1489,157,1608,183,1739,216,1751,220,1749,225,1737,221,1607,188,1488,162"/>
+<area shape="rect" id="Node000029" href="$qwt__thermo_8cpp.html" title=" " alt="" coords="1919,219,2062,277"/>
+<area shape="poly" id="edge31_Node000010_Node000029" title=" " alt="" coords="1489,149,1681,173,1795,192,1907,216,1919,219,1917,224,1906,221,1794,198,1681,179,1488,154"/>
+<area shape="rect" id="Node000013" href="$qwt__date__scale__draw_8cpp.html" title=" " alt="" coords="828,325,1003,384"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1066,287,978,327,976,322,1064,282"/>
+<area shape="rect" id="Node000015" href="$_telemetry_plot_8h.html" title=" " alt="" coords="1213,333,1421,376"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="1320,293,1320,333,1314,333,1314,293"/>
+<area shape="rect" id="Node000020" href="$qwt__plot__scaleitem_8cpp.html" title=" " alt="" coords="1027,325,1188,384"/>
+<area shape="poly" id="edge21_Node000014_Node000020" title=" " alt="" coords="1247,287,1166,327,1164,322,1245,282"/>
+<area shape="rect" id="Node000016" href="$_telemetry_frame_8h.html" title=" " alt="" coords="1083,432,1305,475"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="1281,388,1222,433,1219,429,1277,384"/>
+<area shape="rect" id="Node000019" href="$_telemetry_plot_8cpp.html" title=" " alt="" coords="1330,432,1552,475"/>
+<area shape="poly" id="edge20_Node000015_Node000019" title=" " alt="" coords="1357,384,1416,429,1413,433,1353,388"/>
+<area shape="rect" id="Node000017" href="$_telemetry_frame_8cpp.html" title=" " alt="" coords="949,523,1186,565"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1154,486,1099,524,1096,520,1151,482"/>
+<area shape="rect" id="Node000018" href="$_telemetry_plugin_8h.html" title=" " alt="" coords="1210,523,1432,565"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="1238,482,1293,520,1290,524,1235,486"/>
+<area shape="poly" id="edge24_Node000022_Node000015" title=" " alt="" coords="1568,281,1388,335,1387,330,1567,276"/>
+<area shape="rect" id="Node000023" href="$qwt__plot_8cpp.html" title=" " alt="" coords="1445,325,1589,384"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="1606,289,1556,327,1553,323,1603,285"/>
+<area shape="rect" id="Node000024" href="$qwt__plot__axis_8cpp.html" title=" " alt="" coords="1613,325,1757,384"/>
+<area shape="poly" id="edge26_Node000022_Node000024" title=" " alt="" coords="1669,291,1679,324,1674,326,1664,293"/>
+<area shape="rect" id="Node000025" href="$qwt__plot__layout_8cpp.html" title=" " alt="" coords="1781,325,1925,384"/>
+<area shape="poly" id="edge27_Node000022_Node000025" title=" " alt="" coords="1723,282,1800,322,1797,327,1721,287"/>
+<area shape="rect" id="Node000026" href="$qwt__plot__renderer_8cpp.html" title=" " alt="" coords="1949,325,2101,384"/>
+<area shape="poly" id="edge28_Node000022_Node000026" title=" " alt="" coords="1742,275,1841,299,1938,323,1949,326,1947,331,1936,328,1840,305,1740,281"/>
+<area shape="rect" id="Node000027" href="$qwt__scale__widget_8cpp.html" title=" " alt="" coords="2125,325,2277,384"/>
+<area shape="poly" id="edge29_Node000022_Node000027" title=" " alt="" coords="1741,275,1846,293,1929,299,2011,305,2113,323,2125,325,2124,331,2112,328,2010,311,1928,304,1845,298,1740,280"/>
+</map>

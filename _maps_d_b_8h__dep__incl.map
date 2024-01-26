@@ -1,0 +1,23 @@
+<map id="src/Plugins/MapView/Location/MapsDB.h" name="src/Plugins/MapView/Location/MapsDB.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,5,178,48"/>
+<area shape="rect" id="Node000002" href="$_maps_d_b_8cpp.html" title=" " alt="" coords="30,187,183,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,63,109,186,104,186,104,63"/>
+<area shape="rect" id="Node000003" href="$_tile_loader_8cpp.html" title=" " alt="" coords="92,285,254,328"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,61,46,96,20,139,12,162,8,185,10,207,19,228,34,246,51,261,93,283,90,287,48,265,30,250,15,231,5,208,3,184,7,161,16,137,42,93,72,57"/>
+<area shape="rect" id="Node000004" href="$_tile_loader_8h.html" title=" " alt="" coords="259,96,407,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,52,281,93,279,98,173,57"/>
+<area shape="poly" id="edge11_Node000004_Node000002" title=" " alt="" coords="267,147,161,188,159,184,265,142"/>
+<area shape="poly" id="edge12_Node000004_Node000003" title=" " alt="" coords="291,150,248,188,211,240,185,286,180,284,207,237,244,185,288,146"/>
+<area shape="rect" id="Node000005" href="$_geo_map_reply_8cpp.html" title=" " alt="" coords="699,187,884,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,133,699,186,698,191,422,138"/>
+<area shape="rect" id="Node000006" href="$_geo_plugin_8h.html" title=" " alt="" coords="258,187,408,229"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="336,154,336,186,330,186,330,154"/>
+<area shape="rect" id="Node000008" href="$_geo_tiled_mapping_manager_engine_8cpp.html" title=" " alt="" coords="519,277,747,336"/>
+<area shape="poly" id="edge10_Node000004_Node000008" title=" " alt="" coords="423,124,486,133,550,145,603,162,624,173,638,185,649,207,652,232,646,278,640,277,647,232,644,209,634,188,621,177,601,167,548,150,485,138,422,129"/>
+<area shape="rect" id="Node000009" href="$_geo_tile_fetcher_8cpp.html" title=" " alt="" coords="432,187,623,229"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="393,143,483,184,481,188,391,148"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="287,240,209,287,206,282,284,235"/>
+<area shape="rect" id="Node000007" href="$_geo_plugin_8cpp.html" title=" " alt="" coords="278,285,441,328"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="345,244,357,284,352,286,340,245"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="413,232,545,274,543,279,411,237"/>
+</map>

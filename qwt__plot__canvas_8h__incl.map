@@ -1,0 +1,11 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_plot_canvas.h" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_plot_canvas.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="87,5,230,64"/>
+<area shape="rect" id="Node000002" href="$qwt__global_8h.html" title=" " alt="" coords="5,112,99,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,66,81,104,77,100,123,62"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="123,112,194,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,64,161,96,156,96,156,64"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="219,112,322,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="196,62,245,100,241,104,193,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="15,187,89,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,139,55,171,49,171,49,139"/>
+</map>

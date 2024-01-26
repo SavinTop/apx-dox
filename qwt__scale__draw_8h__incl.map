@@ -1,0 +1,39 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_scale_draw.h" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_scale_draw.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="156,5,300,64"/>
+<area shape="rect" id="Node000002" href="$qwt__global_8h.html" title=" " alt="" coords="31,352,124,379"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,45,121,54,86,67,53,87,28,114,14,141,9,171,10,202,16,234,38,292,63,338,59,341,34,295,11,235,5,203,3,171,9,139,23,110,50,82,83,62,120,49,155,40"/>
+<area shape="rect" id="Node000004" href="$qwt__abstract__scale__draw_8h.html" title=" " alt="" coords="37,112,171,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,67,144,104,141,100,190,62"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="194,120,262,147"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="231,64,231,104,225,104,225,64"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="285,120,347,147"/>
+<area shape="poly" id="edge20_Node000001_Node000015" title=" " alt="" coords="256,62,296,107,293,110,252,66"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="371,120,464,147"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="286,62,380,110,378,115,283,67"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="41,427,114,453"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,379,80,411,75,411,75,379"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="89,157,74,178,63,203,57,239,58,275,71,337,66,338,53,275,52,238,58,202,69,176,84,154"/>
+<area shape="rect" id="Node000005" href="$qwt__scale__div_8h.html" title=" " alt="" coords="72,203,184,229"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="113,155,123,187,117,188,108,156"/>
+<area shape="rect" id="Node000010" href="$qwt__text_8h.html" title=" " alt="" coords="369,277,450,304"/>
+<area shape="poly" id="edge13_Node000004_Node000010" title=" " alt="" coords="146,153,372,268,370,272,143,158"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="126,231,89,338,84,336,121,229"/>
+<area shape="rect" id="Node000006" href="$qwt__interval_8h.html" title=" " alt="" coords="245,277,344,304"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="158,227,253,268,251,273,156,232"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="150,352,224,379"/>
+<area shape="poly" id="edge12_Node000005_Node000008" title=" " alt="" coords="133,229,142,263,156,303,173,338,169,340,151,305,137,265,128,231"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="165,277,222,304"/>
+<area shape="poly" id="edge11_Node000005_Node000009" title=" " alt="" coords="141,228,174,264,170,268,137,232"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="258,307,131,349,129,344,256,302"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="248,352,341,379"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="297,305,297,336,292,336,292,305"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="277,307,220,345,217,341,274,302"/>
+<area shape="poly" id="edge14_Node000010_Node000002" title=" " alt="" coords="369,304,357,307,140,354,138,348,356,301,368,299"/>
+<area shape="poly" id="edge18_Node000010_Node000007" title=" " alt="" coords="391,307,329,346,326,341,388,302"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="366,352,437,379"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="411,305,407,337,402,336,405,304"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="462,352,525,379"/>
+<area shape="poly" id="edge16_Node000010_Node000012" title=" " alt="" coords="426,303,469,340,466,344,422,307"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="549,352,609,379"/>
+<area shape="poly" id="edge17_Node000010_Node000013" title=" " alt="" coords="440,302,536,343,534,348,438,307"/>
+</map>

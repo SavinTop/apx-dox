@@ -1,0 +1,20 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_picker_machine.cpp" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_picker_machine.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="172,5,340,64"/>
+<area shape="rect" id="Node000002" href="$qwt__picker__machine_8h.html" title=" " alt="" coords="13,112,163,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,67,126,107,124,102,200,62"/>
+<area shape="rect" id="Node000006" href="$qwt__event__pattern_8h.html" title=" " alt="" coords="188,112,324,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="259,64,259,96,254,96,254,64"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="348,112,418,139"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="299,62,354,101,351,105,296,67"/>
+<area shape="rect" id="Node000003" href="$qwt__global_8h.html" title=" " alt="" coords="86,187,179,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,138,119,172,114,175,94,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,187,62,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="81,141,54,176,50,172,77,138"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="96,261,169,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="135,214,135,246,130,246,130,214"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="236,142,168,181,165,176,233,137"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="203,187,309,213"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="259,139,259,171,254,171,254,139"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="333,187,406,213"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="277,137,338,176,335,180,274,141"/>
+</map>

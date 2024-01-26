@@ -1,0 +1,7 @@
+<map id="QwtAbstractScaleDraw::PrivateData" name="QwtAbstractScaleDraw::PrivateData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,96,196,139"/>
+<area shape="rect" id="Node000002" href="$class_qwt_scale_map.html" title="A scale map." alt="" coords="5,5,108,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,44,107,94,102,97,71,47"/>
+<area shape="rect" id="Node000003" href="$class_qwt_scale_div.html" title="A class representing a scale division." alt="" coords="132,5,226,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,47,133,97,129,94,161,44"/>
+</map>

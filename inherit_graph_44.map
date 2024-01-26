@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,81,76,108"/>
+<area shape="rect" id="Node000001" href="$class_database_worker.html" title=" " alt="" coords="133,5,252,32"/>
+<area shape="poly" id="edge310_Node000000_Node000001" title=" " alt="" coords="73,70,122,42,149,30,151,35,125,46,75,75"/>
+<area shape="rect" id="Node000002" href="$class_queue_worker.html" title=" " alt="" coords="142,56,243,83"/>
+<area shape="poly" id="edge311_Node000000_Node000002" title=" " alt="" coords="90,84,141,75,142,80,91,89"/>
+<area shape="rect" id="Node000005" href="$class_qwt_sampling_thread.html" title="A thread collecting samples at regular intervals." alt="" coords="124,107,261,133"/>
+<area shape="poly" id="edge314_Node000000_Node000005" title=" " alt="" coords="92,100,124,106,123,111,91,106"/>
+<area shape="rect" id="Node000006" href="$class_video_thread.html" title=" " alt="" coords="146,157,239,184"/>
+<area shape="poly" id="edge315_Node000000_Node000006" title=" " alt="" coords="75,114,125,143,151,154,149,159,122,148,73,119"/>
+<area shape="rect" id="Node000003" href="$class_telemetry_export.html" title=" " alt="" coords="309,31,425,57"/>
+<area shape="poly" id="edge312_Node000002_Node000003" title=" " alt="" coords="258,57,308,50,309,55,259,62"/>
+<area shape="rect" id="Node000004" href="$class_telemetry_import.html" title=" " alt="" coords="310,81,424,108"/>
+<area shape="poly" id="edge313_Node000002_Node000004" title=" " alt="" coords="259,76,310,84,309,89,258,82"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QwtPlotDirectPainter::PrivateData" name="QwtPlotDirectPainter::PrivateData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,172,197,215"/>
+<area shape="rect" id="Node000002" href="$class_qwt_plot_series_item.html" title="Base class for plot items representing a series of samples." alt="" coords="62,81,191,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,124,129,171,124,171,124,124"/>
+<area shape="rect" id="Node000003" href="$class_qwt_plot_item.html" title="Base class for items on the plot canvas." alt="" coords="5,5,98,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,41,116,79,112,83,73,45"/>
+<area shape="rect" id="Node000004" href="$class_qwt_abstract_series_store.html" title="Bridge between QwtSeriesStore and QwtPlotSeriesItem." alt="" coords="122,5,283,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="180,45,141,83,137,79,176,41"/>
+</map>

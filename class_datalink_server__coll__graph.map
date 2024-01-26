@@ -1,0 +1,12 @@
+<map id="DatalinkServer" name="DatalinkServer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,404,110,431"/>
+<area shape="rect" id="Node000002" href="$class_fact.html" title=" " alt="" coords="34,233,81,260"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,276,57,284,57,380,59,403,54,404,52,380,52,284,53,276"/>
+<area shape="poly" id="edge5_Node000001_Node000002" title=" " alt="" coords="60,275,60,404,55,404,55,275"/>
+<area shape="rect" id="Node000003" href="$class_fact_data.html" title=" " alt="" coords="20,157,95,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="60,199,60,233,55,233,55,199"/>
+<area shape="rect" id="Node000004" href="$class_fact_base.html" title=" " alt="" coords="19,81,96,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="60,123,60,157,55,157,55,123"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="23,5,92,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="60,47,60,81,55,81,55,47"/>
+</map>

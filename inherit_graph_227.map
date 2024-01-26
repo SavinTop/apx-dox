@@ -1,0 +1,20 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_x_p_c_broadcaster.html" title=" " alt="" coords="24,69,141,96"/>
+<area shape="rect" id="Node000001" href="$class_x_p_c_close_button_message_attachment.html" title=" " alt="" coords="208,5,445,32"/>
+<area shape="poly" id="edge421_Node000000_Node000001" title=" " alt="" coords="138,62,207,41,255,30,256,35,208,47,140,67"/>
+<area shape="rect" id="Node000004" href="$class_x_p_c_key_message_attachment.html" title=" " alt="" coords="232,56,421,83"/>
+<area shape="poly" id="edge422_Node000000_Node000004" title=" " alt="" coords="156,76,231,72,231,77,156,81"/>
+<area shape="rect" id="Node000005" href="$class_x_p_c_push_button_message_attachment.html" title=" " alt="" coords="209,107,444,133"/>
+<area shape="poly" id="edge423_Node000000_Node000005" title=" " alt="" coords="156,91,235,103,234,109,156,96"/>
+<area shape="rect" id="Node000006" href="$class_x_p_c_slider_message_attachment.html" title=" " alt="" coords="227,157,426,184"/>
+<area shape="poly" id="edge424_Node000000_Node000006" title=" " alt="" coords="128,101,161,118,184,131,209,143,247,154,245,159,207,148,182,136,158,122,125,106"/>
+<area shape="rect" id="Node000002" href="$class_x_p_c_widget_attachment.html" title=" " alt="" coords="5,132,160,159"/>
+<area shape="poly" id="edge425_Node000002_Node000001" title=" " alt="" coords="132,123,158,106,172,90,180,73,189,57,206,42,230,30,232,35,209,46,193,61,185,76,177,93,161,110,135,127"/>
+<area shape="poly" id="edge427_Node000002_Node000004" title=" " alt="" coords="126,123,207,92,250,81,251,86,208,97,128,128"/>
+<area shape="poly" id="edge428_Node000002_Node000005" title=" " alt="" coords="175,133,208,130,209,135,176,138"/>
+<area shape="poly" id="edge429_Node000002_Node000006" title=" " alt="" coords="175,152,226,158,226,163,175,158"/>
+<area shape="rect" id="Node000003" href="$class_x_p_c_key_filter_attachment.html" title=" " alt="" coords="244,208,409,235"/>
+<area shape="poly" id="edge426_Node000002_Node000003" title=" " alt="" coords="128,163,208,193,251,205,250,210,207,199,126,168"/>
+<area shape="rect" id="Node000007" href="$class_x_p_c_tab_group_attachment.html" title=" " alt="" coords="242,259,411,285"/>
+<area shape="poly" id="edge430_Node000002_Node000007" title=" " alt="" coords="108,168,153,208,180,228,209,244,242,257,240,262,207,249,177,232,149,212,105,172"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Poi" name="Poi">
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,379,71,405"/>
+<area shape="rect" id="Node000002" href="$class_mission_item.html" title=" " alt="" coords="5,304,97,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,346,54,378,48,378,48,346"/>
+<area shape="rect" id="Node000003" href="$class_fact.html" title=" " alt="" coords="27,229,75,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="54,272,54,304,48,304,48,272"/>
+<area shape="rect" id="Node000004" href="$class_fact_data.html" title=" " alt="" coords="14,155,88,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="54,197,54,229,48,229,48,197"/>
+<area shape="rect" id="Node000005" href="$class_fact_base.html" title=" " alt="" coords="12,80,90,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="54,122,54,154,48,154,48,122"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="16,5,86,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="54,48,54,80,48,80,48,48"/>
+</map>

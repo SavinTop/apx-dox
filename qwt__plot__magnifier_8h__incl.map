@@ -1,0 +1,12 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_plot_magnifier.h" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_plot_magnifier.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,5,170,64"/>
+<area shape="rect" id="Node000002" href="$qwt__global_8h.html" title=" " alt="" coords="5,187,99,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,65,62,173,57,171,88,64"/>
+<area shape="rect" id="Node000004" href="$qwt__magnifier_8h.html" title=" " alt="" coords="90,112,201,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="116,63,134,97,129,99,111,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="15,261,89,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,214,55,246,49,246,49,214"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="131,141,82,179,78,175,127,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="123,187,197,213"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="151,139,157,171,152,172,145,140"/>
+</map>

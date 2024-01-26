@@ -1,0 +1,10 @@
+<map id="src/Plugins/System/Simulator/xplane/SDK/CHeaders/XPLM/XPLMInstance.h" name="src/Plugins/System/Simulator/xplane/SDK/CHeaders/XPLM/XPLMInstance.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,224,64"/>
+<area shape="rect" id="Node000002" href="$_x_p_l_m_defs_8h.html" title=" " alt="" coords="68,187,161,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,65,96,100,96,138,105,171,100,173,91,139,91,100,100,64"/>
+<area shape="rect" id="Node000004" href="$_x_p_l_m_scenery_8h.html" title=" " alt="" coords="105,112,220,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,63,151,97,146,100,128,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="82,261,147,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,214,117,246,112,246,112,214"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="156,141,133,175,129,172,152,138"/>
+</map>

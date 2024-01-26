@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_qwt_series_data.html" title="Abstract interface for iterating over samples." alt="" coords="5,180,145,207"/>
+<area shape="rect" id="Node000001" href="$class_qwt_array_series_data.html" title=" " alt="" coords="202,5,354,48"/>
+<area shape="poly" id="edge402_Node000000_Node000001" title=" " alt="" coords="91,166,133,112,160,83,191,58,211,46,213,51,194,62,164,87,137,115,95,169"/>
+<area shape="rect" id="Node000003" href="$class_qwt_array_series_data.html" title=" " alt="" coords="208,72,348,115"/>
+<area shape="poly" id="edge404_Node000000_Node000003" title=" " alt="" coords="110,169,191,124,217,113,219,118,194,129,112,174"/>
+<area shape="rect" id="Node000005" href="$class_qwt_array_series_data.html" title=" " alt="" coords="208,139,348,181"/>
+<area shape="poly" id="edge406_Node000000_Node000005" title=" " alt="" coords="160,177,207,169,208,174,161,182"/>
+<area shape="rect" id="Node000007" href="$class_qwt_array_series_data.html" title=" " alt="" coords="208,205,348,248"/>
+<area shape="poly" id="edge408_Node000000_Node000007" title=" " alt="" coords="161,205,208,213,207,218,160,210"/>
+<area shape="rect" id="Node000009" href="$class_qwt_array_series_data.html" title=" " alt="" coords="204,272,352,315"/>
+<area shape="poly" id="edge410_Node000000_Node000009" title=" " alt="" coords="112,213,194,258,219,269,217,274,191,262,110,217"/>
+<area shape="rect" id="Node000011" href="$class_qwt_array_series_data.html" title="Template class for data, that is organized as QVector." alt="" coords="193,339,363,365"/>
+<area shape="poly" id="edge412_Node000000_Node000011" title=" " alt="" coords="95,219,136,273,163,301,194,324,217,336,214,340,191,329,160,304,132,276,91,222"/>
+<area shape="rect" id="Node000002" href="$class_qwt_interval_series_data.html" title="Interface for iterating over an array of intervals." alt="" coords="414,13,562,40"/>
+<area shape="poly" id="edge403_Node000001_Node000002" title=" " alt="" coords="369,24,413,24,413,29,369,29"/>
+<area shape="rect" id="Node000004" href="$class_qwt_point3_d_series_data.html" title="Interface for iterating over an array of 3D points." alt="" coords="411,80,565,107"/>
+<area shape="poly" id="edge405_Node000003_Node000004" title=" " alt="" coords="363,91,410,91,410,96,363,96"/>
+<area shape="rect" id="Node000006" href="$class_qwt_point_series_data.html" title="Interface for iterating over an array of points." alt="" coords="419,147,557,173"/>
+<area shape="poly" id="edge407_Node000005_Node000006" title=" " alt="" coords="363,157,419,157,419,163,363,163"/>
+<area shape="rect" id="Node000008" href="$class_qwt_set_series_data.html" title="Interface for iterating over an array of samples." alt="" coords="424,213,552,240"/>
+<area shape="poly" id="edge409_Node000007_Node000008" title=" " alt="" coords="363,224,424,224,424,229,363,229"/>
+<area shape="rect" id="Node000010" href="$class_qwt_trading_chart_data.html" title=" " alt="" coords="416,280,560,307"/>
+<area shape="poly" id="edge411_Node000009_Node000010" title=" " alt="" coords="367,291,416,291,416,296,367,296"/>
+</map>

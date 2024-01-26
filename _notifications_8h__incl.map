@@ -1,0 +1,18 @@
+<map id="src/Plugins/System/_Notifications/Notifications.h" name="src/Plugins/System/_Notifications/Notifications.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="88,5,278,48"/>
+<area shape="rect" id="Node000002" href="$_app_notify_8h.html" title=" " alt="" coords="5,96,121,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,51,96,89,93,85,151,46"/>
+<area shape="rect" id="Node000003" href="$_fact_8h.html" title=" " alt="" coords="83,171,171,197"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="178,49,139,157,134,155,173,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="177,395,240,421"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="191,48,204,108,211,183,211,260,211,379,206,379,206,260,206,183,199,109,186,49"/>
+<area shape="rect" id="Node000007" href="$_delayed_event_8h.html" title=" " alt="" coords="245,171,412,197"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="204,46,308,157,304,161,200,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,121,108,157,104,161,72,125"/>
+<area shape="rect" id="Node000004" href="$_fact_data_8h.html" title=" " alt="" coords="84,245,170,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,198,130,230,124,230,124,198"/>
+<area shape="rect" id="Node000005" href="$_fact_base_8h.html" title=" " alt="" coords="83,320,171,347"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="130,273,130,304,124,304,124,273"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="143,345,185,382,181,386,139,349"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="324,199,224,383,220,380,319,197"/>
+</map>

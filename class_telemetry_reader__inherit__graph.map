@@ -1,0 +1,11 @@
+<map id="TelemetryReader" name="TelemetryReader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,304,125,331"/>
+<area shape="rect" id="Node000002" href="$class_fact.html" title=" " alt="" coords="41,229,89,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,272,68,304,62,304,62,272"/>
+<area shape="rect" id="Node000003" href="$class_fact_data.html" title=" " alt="" coords="28,155,102,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,197,68,229,62,229,62,197"/>
+<area shape="rect" id="Node000004" href="$class_fact_base.html" title=" " alt="" coords="26,80,104,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="68,122,68,154,62,154,62,122"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="30,5,100,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="68,48,68,80,62,80,62,48"/>
+</map>

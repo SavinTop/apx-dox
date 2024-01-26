@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_qwt_text_engine.html" title="Abstract base class for rendering text strings." alt="" coords="5,31,115,57"/>
+<area shape="rect" id="Node000001" href="$class_qwt_plain_text_engine.html" title="A text engine for plain texts." alt="" coords="163,5,301,32"/>
+<area shape="poly" id="edge413_Node000000_Node000001" title=" " alt="" coords="130,31,162,26,163,32,131,36"/>
+<area shape="rect" id="Node000002" href="$class_qwt_rich_text_engine.html" title="A text engine for Qt rich texts." alt="" coords="164,56,300,83"/>
+<area shape="poly" id="edge414_Node000000_Node000002" title=" " alt="" coords="131,52,164,57,164,62,130,57"/>
+</map>

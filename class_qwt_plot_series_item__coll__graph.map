@@ -1,0 +1,7 @@
+<map id="QwtPlotSeriesItem" name="QwtPlotSeriesItem">
+<area shape="rect" id="Node000001" title="Base class for plot items representing a series of samples." alt="" coords="62,80,191,107"/>
+<area shape="rect" id="Node000002" href="$class_qwt_plot_item.html" title="Base class for items on the plot canvas." alt="" coords="5,5,98,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,41,115,78,111,82,73,45"/>
+<area shape="rect" id="Node000003" href="$class_qwt_abstract_series_store.html" title="Bridge between QwtSeriesStore and QwtPlotSeriesItem." alt="" coords="122,5,283,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,45,141,82,137,78,176,41"/>
+</map>

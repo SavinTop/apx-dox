@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_qwt_scale_engine.html" title="Base class for scale engines." alt="" coords="5,31,123,57"/>
+<area shape="rect" id="Node000001" href="$class_qwt_linear_scale_engine.html" title="A scale engine for linear scales." alt="" coords="171,5,323,32"/>
+<area shape="poly" id="edge396_Node000000_Node000001" title=" " alt="" coords="138,31,170,27,171,32,139,36"/>
+<area shape="rect" id="Node000003" href="$class_qwt_log_scale_engine.html" title="A scale engine for logarithmic scales." alt="" coords="178,56,316,83"/>
+<area shape="poly" id="edge398_Node000000_Node000003" title=" " alt="" coords="139,52,178,57,177,62,138,57"/>
+<area shape="rect" id="Node000002" href="$class_qwt_date_scale_engine.html" title="A scale engine for date/time values." alt="" coords="371,5,515,32"/>
+<area shape="poly" id="edge397_Node000001_Node000002" title=" " alt="" coords="339,16,371,16,371,21,339,21"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="src/Plugins/System/AppUpdate/UpdaterPlugin.h" name="src/Plugins/System/AppUpdate/UpdaterPlugin.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,5,318,48"/>
+<area shape="rect" id="Node000002" href="$_updater_8h.html" title=" " alt="" coords="111,96,188,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,50,174,86,170,83,204,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="158,395,221,421"/>
+<area shape="poly" id="edge17_Node000001_Node000003" title=" " alt="" coords="148,51,99,71,54,99,35,116,21,136,11,158,8,183,8,260,12,284,22,306,37,326,56,343,100,371,145,390,142,395,98,376,52,347,33,329,17,309,6,286,3,260,3,182,6,157,16,133,31,113,51,95,97,66,146,46"/>
+<area shape="rect" id="Node000008" href="$_app_settings_8h.html" title=" " alt="" coords="224,96,355,123"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="244,47,272,82,268,85,240,50"/>
+<area shape="rect" id="Node000010" href="$_plugin_interface_8h.html" title=" " alt="" coords="420,96,564,123"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="295,46,436,88,435,94,293,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,125,104,145,83,172,65,196,56,207,49,220,47,238,52,263,66,298,91,345,115,371,145,389,143,393,112,375,87,348,61,300,46,265,41,238,44,218,51,204,61,193,79,169,100,141,125,121"/>
+<area shape="rect" id="Node000004" href="$_delayed_event_8h.html" title=" " alt="" coords="206,171,373,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="175,121,252,161,250,165,172,126"/>
+<area shape="rect" id="Node000005" href="$_fact_8h.html" title=" " alt="" coords="93,171,182,197"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="150,124,145,156,139,155,145,123"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="286,199,203,382,199,380,281,197"/>
+<area shape="rect" id="Node000006" href="$_fact_data_8h.html" title=" " alt="" coords="99,245,184,272"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="141,198,142,230,137,230,135,198"/>
+<area shape="rect" id="Node000007" href="$_fact_base_8h.html" title=" " alt="" coords="101,320,190,347"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="145,272,146,304,141,305,139,273"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="155,346,176,380,172,383,151,349"/>
+<area shape="poly" id="edge14_Node000008_Node000003" title=" " alt="" coords="334,121,372,140,391,153,406,169,424,195,433,220,434,245,422,273,405,298,384,320,335,355,283,380,237,397,235,392,281,376,332,350,381,316,401,295,418,271,428,244,428,221,419,198,402,172,387,157,370,144,332,126"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="292,123,292,155,287,155,287,123"/>
+<area shape="poly" id="edge13_Node000008_Node000005" title=" " alt="" coords="264,126,179,166,177,161,262,121"/>
+<area shape="rect" id="Node000009" href="$_app_dirs_8h.html" title=" " alt="" coords="302,245,407,272"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="327,121,359,140,375,153,386,169,391,186,390,203,376,234,371,232,384,202,386,186,382,172,371,157,356,144,324,126"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="342,274,216,386,213,382,339,271"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="498,171,569,197"/>
+<area shape="poly" id="edge16_Node000010_Node000011" title=" " alt="" coords="502,122,521,156,516,159,497,125"/>
+</map>

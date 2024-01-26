@@ -1,0 +1,9 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_dyngrid_layout.h" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_dyngrid_layout.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="188,5,336,64"/>
+<area shape="rect" id="Node000002" href="$qwt__dyngrid__layout_8cpp.html" title=" " alt="" coords="5,112,167,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,74,135,114,133,109,200,70"/>
+<area shape="rect" id="Node000003" href="$qwt__legend_8cpp.html" title=" " alt="" coords="190,112,334,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,80,265,112,259,112,259,80"/>
+<area shape="rect" id="Node000004" href="$qwt__plot__legenditem_8cpp.html" title=" " alt="" coords="358,112,526,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="325,70,394,109,392,114,323,74"/>
+</map>

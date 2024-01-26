@@ -1,0 +1,15 @@
+<map id="TelemetryShare" name="TelemetryShare">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,416,118,443"/>
+<area shape="rect" id="Node000002" href="$class_share.html" title=" " alt="" coords="109,340,164,367"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,380,76,418,72,414,111,376"/>
+<area shape="rect" id="Node000003" href="$class_fact.html" title=" " alt="" coords="69,233,116,260"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="82,275,69,306,60,340,60,367,63,416,58,416,55,367,55,340,64,304,77,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,275,113,315,128,338,123,341,108,317,95,276"/>
+<area shape="poly" id="edge6_Node000002_Node000003" title=" " alt="" coords="106,273,133,339,128,341,101,275"/>
+<area shape="rect" id="Node000004" href="$class_fact_data.html" title=" " alt="" coords="55,157,129,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,199,95,233,90,233,90,199"/>
+<area shape="rect" id="Node000005" href="$class_fact_base.html" title=" " alt="" coords="54,81,131,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="95,123,95,157,90,157,90,123"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="58,5,127,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="95,47,95,81,90,81,90,47"/>
+</map>

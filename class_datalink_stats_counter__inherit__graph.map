@@ -1,0 +1,11 @@
+<map id="DatalinkStatsCounter" name="DatalinkStatsCounter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,304,150,331"/>
+<area shape="rect" id="Node000002" href="$class_fact.html" title=" " alt="" coords="54,229,101,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,272,80,304,75,304,75,272"/>
+<area shape="rect" id="Node000003" href="$class_fact_data.html" title=" " alt="" coords="40,155,115,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,197,80,229,75,229,75,197"/>
+<area shape="rect" id="Node000004" href="$class_fact_base.html" title=" " alt="" coords="39,80,116,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="80,122,80,154,75,154,75,122"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="43,5,112,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="80,48,80,80,75,80,75,48"/>
+</map>

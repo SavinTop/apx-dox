@@ -1,0 +1,21 @@
+<map id="PApxNodeRequest" name="PApxNodeRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,157,254,184"/>
+<area shape="rect" id="Node000003" href="$class_p_apx_node_request_file.html" title=" " alt="" coords="312,31,464,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,144,249,105,301,67,327,55,329,60,303,72,253,109,213,148"/>
+<area shape="rect" id="Node000006" href="$class_p_apx_node_request_ident.html" title=" " alt="" coords="309,81,468,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="230,148,301,118,335,106,337,111,303,122,233,153"/>
+<area shape="rect" id="Node000007" href="$class_p_apx_node_request_mod.html" title=" " alt="" coords="310,132,466,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="269,158,309,153,310,158,270,163"/>
+<area shape="rect" id="Node000008" href="$class_p_apx_node_request_reboot.html" title=" " alt="" coords="302,183,474,209"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="269,178,302,182,301,188,269,184"/>
+<area shape="rect" id="Node000009" href="$class_p_apx_node_request_update.html" title=" " alt="" coords="302,233,474,260"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="233,189,303,219,337,230,335,235,301,224,230,194"/>
+<area shape="rect" id="Node000010" href="$class_p_apx_node_request_usr.html" title=" " alt="" coords="313,284,464,311"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="213,194,253,233,303,270,329,281,327,286,301,274,249,237,209,197"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,157,75,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,168,122,168,122,173,90,173"/>
+<area shape="rect" id="Node000004" href="$class_p_apx_node_request_file_read.html" title=" " alt="" coords="523,5,705,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="479,31,522,26,523,32,480,36"/>
+<area shape="rect" id="Node000005" href="$class_p_apx_node_request_file_write.html" title=" " alt="" coords="522,56,706,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="480,52,522,56,522,62,479,57"/>
+</map>

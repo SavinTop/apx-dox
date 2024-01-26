@@ -1,0 +1,49 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,360,78,387"/>
+<area shape="rect" id="Node000001" href="$class_compass_frame.html" title=" " alt="" coords="143,5,256,32"/>
+<area shape="poly" id="edge321_Node000000_Node000001" title=" " alt="" coords="44,344,55,273,72,184,95,99,109,66,124,42,141,29,144,34,128,46,113,68,100,101,77,185,60,274,49,345"/>
+<area shape="rect" id="Node000002" href="$class_drawing_area.html" title=" " alt="" coords="152,56,247,83"/>
+<area shape="poly" id="edge322_Node000000_Node000002" title=" " alt="" coords="41,344,45,291,57,224,82,155,101,122,124,93,150,76,153,81,127,97,105,125,87,157,63,226,50,292,46,344"/>
+<area shape="rect" id="Node000003" href="$class_fact_delegate_mandala.html" title=" " alt="" coords="126,107,273,133"/>
+<area shape="poly" id="edge323_Node000000_Node000003" title=" " alt="" coords="43,344,50,301,64,247,88,192,104,166,124,143,140,132,143,136,127,147,109,169,93,194,69,249,55,302,48,345"/>
+<area shape="rect" id="Node000004" href="$class_fact_tree_widget.html" title=" " alt="" coords="143,157,256,184"/>
+<area shape="poly" id="edge324_Node000000_Node000004" title=" " alt="" coords="46,344,56,310,72,270,94,229,124,194,141,182,144,187,127,198,98,232,76,272,61,312,51,346"/>
+<area shape="rect" id="Node000005" href="$class_j_s_tree_widget.html" title=" " alt="" coords="148,208,251,235"/>
+<area shape="poly" id="edge325_Node000000_Node000005" title=" " alt="" coords="52,344,80,294,100,267,124,245,146,232,149,236,127,249,104,271,85,297,57,347"/>
+<area shape="rect" id="Node000006" href="$class_nodes_frame.html" title=" " alt="" coords="152,259,247,285"/>
+<area shape="poly" id="edge326_Node000000_Node000006" title=" " alt="" coords="63,347,91,320,124,295,150,283,152,288,127,300,94,324,66,351"/>
+<area shape="rect" id="Node000007" href="$class_qwt_abstract_scale.html" title="An abstract base class for widgets having a scale." alt="" coords="136,309,263,336"/>
+<area shape="poly" id="edge327_Node000000_Node000007" title=" " alt="" coords="91,355,154,334,156,339,93,360"/>
+<area shape="rect" id="Node000013" href="$class_qwt_counter.html" title="The Counter Widget." alt="" coords="155,360,244,387"/>
+<area shape="poly" id="edge333_Node000000_Node000013" title=" " alt="" coords="93,371,154,371,154,376,93,376"/>
+<area shape="rect" id="Node000014" href="$class_qwt_panner.html" title="QwtPanner provides panning of a widget." alt="" coords="157,411,242,437"/>
+<area shape="poly" id="edge334_Node000000_Node000014" title=" " alt="" coords="93,387,157,408,155,413,92,392"/>
+<area shape="rect" id="Node000016" href="$class_qwt_scale_widget.html" title="A Widget which contains a scale." alt="" coords="140,461,259,488"/>
+<area shape="poly" id="edge336_Node000000_Node000016" title=" " alt="" coords="66,396,94,423,127,447,150,458,148,463,124,452,91,427,63,400"/>
+<area shape="rect" id="Node000017" href="$class_qwt_wheel.html" title="The Wheel Widget." alt="" coords="159,512,240,539"/>
+<area shape="poly" id="edge337_Node000000_Node000017" title=" " alt="" coords="57,400,85,450,104,476,127,498,159,514,157,519,124,502,100,479,80,453,52,402"/>
+<area shape="rect" id="Node000018" href="$class_qwt_widget_overlay.html" title="An overlay for a widget." alt="" coords="135,563,264,589"/>
+<area shape="poly" id="edge338_Node000000_Node000018" title=" " alt="" coords="51,401,61,435,76,474,98,514,127,549,144,560,141,564,124,553,94,517,72,477,56,436,46,402"/>
+<area shape="rect" id="Node000021" href="$class_serial_form.html" title=" " alt="" coords="157,613,242,640"/>
+<area shape="poly" id="edge341_Node000000_Node000021" title=" " alt="" coords="48,402,55,445,69,498,93,552,109,577,127,599,141,610,158,617,156,621,139,614,124,603,104,580,88,555,64,500,50,446,43,402"/>
+<area shape="rect" id="Node000022" href="$class_servos_form.html" title=" " alt="" coords="154,664,245,691"/>
+<area shape="poly" id="edge342_Node000000_Node000022" title=" " alt="" coords="46,402,50,455,63,521,87,590,105,622,128,650,140,660,155,667,152,671,137,664,124,654,101,625,82,592,57,522,45,455,41,403"/>
+<area shape="rect" id="Node000023" href="$class_telemetry_frame.html" title=" " alt="" coords="142,715,257,741"/>
+<area shape="poly" id="edge343_Node000000_Node000023" title=" " alt="" coords="49,402,60,472,77,562,100,646,113,679,128,701,143,712,140,717,124,704,109,681,95,648,72,563,55,473,44,402"/>
+<area shape="rect" id="Node000008" href="$class_qwt_abstract_slider.html" title="An abstract base class for slider widgets with a scale." alt="" coords="333,284,459,311"/>
+<area shape="poly" id="edge328_Node000007_Node000008" title=" " alt="" coords="277,310,332,303,333,308,278,315"/>
+<area shape="rect" id="Node000012" href="$class_qwt_thermo.html" title="The Thermometer Widget." alt="" coords="353,335,440,361"/>
+<area shape="poly" id="edge332_Node000007_Node000012" title=" " alt="" coords="278,330,352,340,352,345,277,335"/>
+<area shape="rect" id="Node000009" href="$class_qwt_dial.html" title="QwtDial class provides a rounded range control." alt="" coords="525,259,591,285"/>
+<area shape="poly" id="edge329_Node000008_Node000009" title=" " alt="" coords="474,282,524,274,525,280,475,288"/>
+<area shape="rect" id="Node000011" href="$class_qwt_slider.html" title="The Slider Widget." alt="" coords="519,309,597,336"/>
+<area shape="poly" id="edge331_Node000008_Node000011" title=" " alt="" coords="475,307,519,314,518,319,475,312"/>
+<area shape="rect" id="Node000010" href="$class_qwt_analog_clock.html" title="An analog clock." alt="" coords="645,259,762,285"/>
+<area shape="poly" id="edge330_Node000009_Node000010" title=" " alt="" coords="607,269,645,269,645,275,607,275"/>
+<area shape="rect" id="Node000015" href="$class_qwt_plot_panner.html" title="QwtPlotPanner provides panning of a plot canvas." alt="" coords="342,411,450,437"/>
+<area shape="poly" id="edge335_Node000014_Node000015" title=" " alt="" coords="257,421,341,421,341,427,257,427"/>
+<area shape="rect" id="Node000019" href="$class_qwt_picker_rubberband.html" title=" " alt="" coords="321,537,471,564"/>
+<area shape="poly" id="edge339_Node000018_Node000019" title=" " alt="" coords="278,563,320,558,321,563,279,568"/>
+<area shape="rect" id="Node000020" href="$class_qwt_picker_tracker.html" title=" " alt="" coords="334,588,458,615"/>
+<area shape="poly" id="edge340_Node000018_Node000020" title=" " alt="" coords="279,584,334,591,333,596,278,589"/>
+</map>

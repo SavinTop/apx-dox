@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_qwt_curve_fitter.html" title="Abstract base class for a curve fitter." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="Node000001" href="$class_qwt_spline_curve_fitter.html" title="A curve fitter using cubic splines." alt="" coords="167,5,310,32"/>
+<area shape="poly" id="edge383_Node000000_Node000001" title=" " alt="" coords="127,32,166,26,167,31,127,37"/>
+<area shape="rect" id="Node000002" href="$class_qwt_weeding_curve_fitter.html" title="A curve fitter implementing Douglas and Peucker algorithm." alt="" coords="160,56,317,83"/>
+<area shape="poly" id="edge384_Node000000_Node000002" title=" " alt="" coords="128,51,160,56,159,61,127,56"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="src/lib/ApxFw/quazip/quazip.h" name="src/lib/ApxFw/quazip/quazip.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="283,5,425,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,71,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,48,86,98,85,93,282,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="95,96,181,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="299,51,187,93,185,88,297,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="205,96,298,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="329,51,281,88,277,84,326,46"/>
+<area shape="rect" id="Node000005" href="$zip_8h.html" title=" " alt="" coords="409,96,459,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="376,47,413,83,409,87,373,50"/>
+<area shape="rect" id="Node000010" href="$unzip_8h.html" title=" " alt="" coords="322,96,386,123"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="357,49,357,80,351,80,351,49"/>
+<area shape="rect" id="Node000011" href="$quazip__global_8h.html" title=" " alt="" coords="457,171,568,197"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="404,46,439,67,472,94,493,124,506,155,502,157,488,127,468,98,436,71,401,51"/>
+<area shape="rect" id="Node000013" href="$quazipfileinfo_8h.html" title=" " alt="" coords="584,96,690,123"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="426,46,578,89,577,94,425,51"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="356,245,408,272"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="432,124,394,232,389,230,427,122"/>
+<area shape="rect" id="Node000007" href="$ioapi_8h.html" title=" " alt="" coords="272,171,332,197"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="412,126,339,165,337,161,410,121"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="318,196,359,233,355,237,314,200"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="272,245,332,272"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="305,198,305,230,299,230,299,198"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="185,245,248,272"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="289,200,244,237,241,233,285,196"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="359,123,379,229,374,230,354,124"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="347,125,322,160,318,157,343,122"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="454,245,572,272"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="515,198,515,230,510,230,510,198"/>
+<area shape="poly" id="edge19_Node000013_Node000011" title=" " alt="" coords="616,126,548,165,546,160,614,121"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="592,171,681,197"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="639,123,639,155,634,155,634,123"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="706,171,792,197"/>
+<area shape="poly" id="edge17_Node000013_Node000015" title=" " alt="" coords="658,121,718,160,715,164,655,125"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="816,171,868,197"/>
+<area shape="poly" id="edge18_Node000013_Node000016" title=" " alt="" coords="673,121,802,166,800,171,672,126"/>
+</map>

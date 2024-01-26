@@ -1,0 +1,11 @@
+<map id="src/Plugins/Windows/TelemetryChart/qwt/qwt_spline.h" name="src/Plugins/Windows/TelemetryChart/qwt/qwt_spline.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="94,5,237,64"/>
+<area shape="rect" id="Node000002" href="$qwt__global_8h.html" title=" " alt="" coords="5,112,99,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,66,82,104,78,100,127,62"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="123,112,208,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,64,168,96,163,96,163,64"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="231,112,305,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="200,62,243,99,240,104,197,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="15,187,89,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,139,55,171,49,171,49,139"/>
+</map>

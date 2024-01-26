@@ -1,0 +1,19 @@
+<map id="src/lib/ApxCore/App/AppPrefs.cpp" name="src/lib/ApxCore/App/AppPrefs.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,5,222,48"/>
+<area shape="rect" id="Node000002" href="$_app_prefs_8h.html" title=" " alt="" coords="5,96,91,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,51,78,88,75,84,125,46"/>
+<area shape="rect" id="Node000004" href="$_app_dirs_8h.html" title=" " alt="" coords="114,96,193,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,49,156,80,151,80,151,49"/>
+<area shape="rect" id="Node000005" href="$_app_log_8h.html" title=" " alt="" coords="217,96,293,123"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="181,47,228,84,225,88,178,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="60,171,122,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="58,122,78,156,73,159,53,125"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="144,125,113,161,109,157,140,121"/>
+<area shape="poly" id="edge9_Node000005_Node000003" title=" " alt="" coords="227,126,134,166,132,161,225,121"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="147,171,275,197"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="249,125,228,159,224,156,245,122"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="300,171,450,197"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="277,121,342,160,339,165,274,125"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="474,171,598,197"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="294,118,473,164,471,169,293,123"/>
+</map>

@@ -1,0 +1,43 @@
+<map id="TelemetryPlot" name="TelemetryPlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="847,253,948,280"/>
+<area shape="rect" id="Node000002" href="$class_qwt_plot.html" title="A 2&#45;D plotting widget." alt="" coords="353,21,420,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,22,518,12,568,10,622,12,677,19,730,34,780,56,825,89,856,129,877,176,890,220,897,253,892,254,885,221,872,178,852,132,821,93,778,61,728,39,676,24,622,17,568,15,518,17,435,27"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="187,64,255,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,62,352,41,353,46,271,67"/>
+<area shape="rect" id="Node000011" href="$class_qwt_abstract_legend.html" title="Abstract base class for legend widgets." alt="" coords="319,72,454,99"/>
+<area shape="poly" id="edge12_Node000011_Node000003" title=" " alt="" coords="271,77,318,79,318,85,271,82"/>
+<area shape="rect" id="Node000004" href="$class_qwt_plot_dict.html" title="A dictionary for plot items." alt="" coords="176,5,266,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="282,22,353,29,352,34,282,27"/>
+<area shape="rect" id="Node000005" href="$class_qwt_plot_picker.html" title="QwtPlotPicker provides selections on a plot canvas." alt="" coords="334,223,439,249"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="450,251,531,271,622,287,676,290,731,287,846,273,847,278,732,292,676,295,621,292,530,277,448,257"/>
+<area shape="rect" id="Node000009" href="$class_qwt_plot_zoomer.html" title="QwtPlotZoomer provides stacked zooming for a plot widget." alt="" coords="621,219,732,245"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="454,232,621,230,621,235,454,238"/>
+<area shape="rect" id="Node000006" href="$class_qwt_picker.html" title="QwtPicker provides selections on a widget." alt="" coords="181,223,262,249"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="277,233,334,233,334,239,277,239"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="30,165,99,192"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="114,194,183,220,181,225,113,199"/>
+<area shape="rect" id="Node000018" href="$class_qwt_magnifier.html" title="QwtMagnifier provides zooming, by magnifying in steps." alt="" coords="173,157,269,184"/>
+<area shape="poly" id="edge20_Node000018_Node000007" title=" " alt="" coords="114,173,173,170,173,176,115,179"/>
+<area shape="rect" id="Node000008" href="$class_qwt_event_pattern.html" title="A collection of event patterns." alt="" coords="5,224,124,251"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="139,234,180,234,180,239,139,239"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="748,240,847,256,846,261,747,246"/>
+<area shape="rect" id="Node000010" href="$class_qwt_legend.html" title="The legend widget." alt="" coords="633,72,720,99"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="736,100,781,121,824,150,848,175,867,203,893,252,888,254,863,206,844,178,821,154,779,126,733,105"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="470,83,633,83,633,88,470,88"/>
+<area shape="rect" id="Node000012" href="$class_qwt_plot_grid.html" title="A class which draws a coordinate grid." alt="" coords="631,349,722,376"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="737,357,780,349,821,334,858,307,884,279,888,282,861,311,824,338,781,354,738,362"/>
+<area shape="rect" id="Node000013" href="$class_qwt_plot_item.html" title="Base class for items on the plot canvas." alt="" coords="340,373,433,400"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="447,379,630,364,631,369,448,384"/>
+<area shape="rect" id="Node000019" href="$class_qwt_plot_marker.html" title="A class for drawing markers." alt="" coords="623,400,730,427"/>
+<area shape="poly" id="edge22_Node000019_Node000013" title=" " alt="" coords="448,390,623,406,622,411,448,395"/>
+<area shape="rect" id="Node000014" href="$class_qwt_plot_panner.html" title="QwtPlotPanner provides panning of a plot canvas." alt="" coords="622,451,731,477"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="746,466,786,459,804,452,821,442,839,425,854,404,875,359,887,314,892,280,897,281,892,315,880,360,858,407,843,428,824,446,807,457,787,464,747,471"/>
+<area shape="rect" id="Node000015" href="$class_qwt_panner.html" title="QwtPanner provides panning of a widget." alt="" coords="344,451,429,477"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="445,461,622,461,622,467,445,467"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="185,451,257,477"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="273,461,343,461,343,467,273,467"/>
+<area shape="rect" id="Node000017" href="$class_qwt_plot_magnifier.html" title="QwtPlotMagnifier provides zooming, by magnifying in steps." alt="" coords="478,157,597,184"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="613,175,714,191,770,204,824,222,853,235,878,250,875,255,850,240,822,226,768,209,713,196,612,180"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="285,168,477,168,477,173,285,173"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="745,405,784,395,821,376,845,354,864,328,889,279,893,282,869,330,849,358,824,381,786,400,746,410"/>
+</map>

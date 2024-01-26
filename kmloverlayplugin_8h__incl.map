@@ -1,0 +1,37 @@
+<map id="src/Plugins/MapView/KmlOverlay/kmloverlayplugin.h" name="src/Plugins/MapView/KmlOverlay/kmloverlayplugin.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="716,5,918,48"/>
+<area shape="rect" id="Node000002" href="$kmloverlay_8h.html" title=" " alt="" coords="610,96,704,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="777,51,697,91,694,86,774,46"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="626,395,688,421"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="820,49,820,183,819,260,816,283,808,305,779,341,742,370,704,390,701,386,739,365,775,337,803,302,811,282,814,260,814,183,814,49"/>
+<area shape="rect" id="Node000016" href="$_plugin_interface_8h.html" title=" " alt="" coords="854,96,998,123"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="847,46,899,85,895,89,843,51"/>
+<area shape="rect" id="Node000003" href="$kmlpolygonsmodel_8h.html" title=" " alt="" coords="313,171,454,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="611,126,447,169,445,164,609,120"/>
+<area shape="rect" id="Node000011" href="$_fact_8h.html" title=" " alt="" coords="531,171,620,197"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="644,125,602,162,599,158,641,121"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="660,123,660,379,654,379,654,123"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="695,171,779,197"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="673,121,714,158,710,162,669,125"/>
+<area shape="rect" id="Node000004" href="$kmlparser_8h.html" title=" " alt="" coords="148,245,238,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="351,200,241,242,239,237,349,195"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="262,245,398,272"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="376,199,351,234,346,231,372,196"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="423,245,509,272"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="400,196,442,233,439,237,396,200"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,320,82,347"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="168,275,85,315,82,310,166,270"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="106,320,168,347"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="185,274,158,309,154,306,181,271"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="192,320,309,347"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="205,271,233,306,229,309,201,274"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="332,320,435,347"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="227,270,337,312,335,317,225,275"/>
+<area shape="rect" id="Node000012" href="$_fact_data_8h.html" title=" " alt="" coords="533,245,618,272"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="578,198,578,230,573,230,573,198"/>
+<area shape="rect" id="Node000013" href="$_fact_base_8h.html" title=" " alt="" coords="531,320,620,347"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="578,273,578,304,573,304,573,273"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="591,345,633,382,630,386,588,349"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="891,171,962,197"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="929,123,929,155,924,155,924,123"/>
+</map>

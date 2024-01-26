@@ -1,0 +1,9 @@
+<map id="src/Plugins/MapView/Location/GeoPlugin.h" name="src/Plugins/MapView/Location/GeoPlugin.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,5,382,48"/>
+<area shape="rect" id="Node000002" href="$_geo_plugin_8cpp.html" title=" " alt="" coords="5,104,169,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,57,135,106,133,101,245,52"/>
+<area shape="rect" id="Node000003" href="$_geo_tiled_mapping_manager_engine_8cpp.html" title=" " alt="" coords="193,96,421,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="310,63,310,96,304,96,304,63"/>
+<area shape="rect" id="Node000004" href="$_tile_loader_8cpp.html" title=" " alt="" coords="446,104,608,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="369,52,481,101,479,106,367,57"/>
+</map>

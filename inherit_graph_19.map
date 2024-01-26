@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="16,81,85,108"/>
+<area shape="rect" id="Node000001" href="$class_qwt_abstract_legend.html" title="Abstract base class for legend widgets." alt="" coords="144,56,279,83"/>
+<area shape="poly" id="edge23_Node000000_Node000001" title=" " alt="" coords="99,84,143,77,144,83,100,90"/>
+<area shape="rect" id="Node000004" href="$class_qwt_plot.html" title="A 2&#45;D plotting widget." alt="" coords="178,5,245,32"/>
+<area shape="poly" id="edge26_Node000000_Node000004" title=" " alt="" coords="87,71,143,42,176,28,178,33,145,46,89,76"/>
+<area shape="rect" id="Node000007" href="$class_qwt_plot_canvas.html" title="Canvas of a QwtPlot." alt="" coords="157,157,266,184"/>
+<area shape="poly" id="edge28_Node000000_Node000007" title=" " alt="" coords="89,114,145,143,172,154,170,159,143,148,87,118"/>
+<area shape="rect" id="Node000008" href="$class_qwt_text_label.html" title="A Widget which displays a QwtText." alt="" coords="161,107,262,133"/>
+<area shape="poly" id="edge29_Node000000_Node000008" title=" " alt="" coords="100,100,161,109,160,115,99,105"/>
+<area shape="rect" id="Node000002" href="$class_qwt_legend.html" title="The legend widget." alt="" coords="343,56,429,83"/>
+<area shape="poly" id="edge24_Node000001_Node000002" title=" " alt="" coords="295,67,342,67,342,72,295,72"/>
+<area shape="rect" id="Node000003" href="$class_plot_legend.html" title=" " alt="" coords="493,56,580,83"/>
+<area shape="poly" id="edge25_Node000002_Node000003" title=" " alt="" coords="444,67,493,67,493,72,444,72"/>
+<area shape="rect" id="Node000005" href="$class_telemetry_plot.html" title=" " alt="" coords="335,5,436,32"/>
+<area shape="poly" id="edge27_Node000004_Node000005" title=" " alt="" coords="261,16,335,16,335,21,261,21"/>
+<area shape="rect" id="Node000009" href="$class_qwt_legend_label.html" title="A widget representing something on a QwtLegend." alt="" coords="327,107,444,133"/>
+<area shape="poly" id="edge30_Node000008_Node000009" title=" " alt="" coords="277,117,327,117,327,123,277,123"/>
+<area shape="rect" id="Node000010" href="$class_legend_item.html" title=" " alt="" coords="492,107,581,133"/>
+<area shape="poly" id="edge31_Node000009_Node000010" title=" " alt="" coords="460,117,492,117,492,123,460,123"/>
+<area shape="rect" id="Node000006" href="$class_qwt_plot_dict.html" title="A dictionary for plot items." alt="" coords="5,5,96,32"/>
+<area shape="poly" id="edge32_Node000006_Node000004" title=" " alt="" coords="111,16,177,16,177,21,111,21"/>
+</map>

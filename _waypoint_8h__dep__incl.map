@@ -1,0 +1,13 @@
+<map id="src/lib/ApxGcs/Mission/Waypoint.h" name="src/lib/ApxGcs/Mission/Waypoint.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="365,5,522,48"/>
+<area shape="rect" id="Node000002" href="$_mission_storage_8cpp.html" title=" " alt="" coords="5,96,162,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,53,163,99,161,94,349,48"/>
+<area shape="rect" id="Node000003" href="$_mission_tools_8cpp.html" title=" " alt="" coords="185,96,342,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="389,58,307,98,304,93,386,53"/>
+<area shape="rect" id="Node000004" href="$_vehicle_mission_8cpp.html" title=" " alt="" coords="365,96,522,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="446,64,446,96,441,96,441,64"/>
+<area shape="rect" id="Node000005" href="$_waypoint_8cpp.html" title=" " alt="" coords="545,96,702,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="501,53,583,93,580,98,498,58"/>
+<area shape="rect" id="Node000006" href="$_waypoint_actions_8cpp.html" title=" " alt="" coords="725,96,882,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="538,48,726,94,724,99,536,53"/>
+</map>

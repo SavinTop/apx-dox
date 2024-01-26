@@ -1,0 +1,14 @@
+<map id="QwtPlotMultiBarChart" name="QwtPlotMultiBarChart">
+<area shape="rect" id="Node000001" title="QwtPlotMultiBarChart displays a series of a samples that consist each of a set of values." alt="" coords="125,229,272,256"/>
+<area shape="rect" id="Node000002" href="$class_qwt_plot_abstract_bar_chart.html" title="Abstract base class for bar chart items." alt="" coords="5,155,173,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,188,181,226,178,231,119,193"/>
+<area shape="rect" id="Node000003" href="$class_qwt_plot_series_item.html" title="Base class for plot items representing a series of samples." alt="" coords="59,80,188,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,122,97,155,93,153,109,120"/>
+<area shape="rect" id="Node000004" href="$class_qwt_plot_item.html" title="Base class for items on the plot canvas." alt="" coords="78,5,170,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,48,126,80,121,80,121,48"/>
+<area shape="rect" id="Node000005" href="$class_qwt_abstract_series_store.html" title="Bridge between QwtSeriesStore and QwtPlotSeriesItem." alt="" coords="211,5,372,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="250,41,154,82,152,77,247,36"/>
+<area shape="rect" id="Node000006" href="$class_qwt_series_store.html" title=" " alt="" coords="197,155,421,181"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="298,47,310,154,305,155,292,48"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="279,192,219,231,216,226,276,188"/>
+</map>

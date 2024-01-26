@@ -1,0 +1,15 @@
+<map id="FirmwareSelect" name="FirmwareSelect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,304,136,331"/>
+<area shape="rect" id="Node000006" href="$class_format.html" title=" " alt="" coords="5,379,68,405"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="67,346,46,380,42,377,63,343"/>
+<area shape="rect" id="Node000007" href="$class_initialize.html" title=" " alt="" coords="92,379,160,405"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="99,343,120,377,116,380,94,346"/>
+<area shape="rect" id="Node000002" href="$class_fact.html" title=" " alt="" coords="57,229,104,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,272,83,304,78,304,78,272"/>
+<area shape="rect" id="Node000003" href="$class_fact_data.html" title=" " alt="" coords="43,155,118,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,197,83,229,78,229,78,197"/>
+<area shape="rect" id="Node000004" href="$class_fact_base.html" title=" " alt="" coords="42,80,119,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,122,83,154,78,154,78,122"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="46,5,115,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="83,48,83,80,78,80,78,48"/>
+</map>

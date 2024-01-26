@@ -1,0 +1,11 @@
+<map id="QwtPlot::AxisData" name="QwtPlot::AxisData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="118,172,246,199"/>
+<area shape="rect" id="Node000002" href="$class_qwt_scale_div.html" title="A class representing a scale division." alt="" coords="5,81,100,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,115,126,146,163,169,160,174,123,150,79,119"/>
+<area shape="rect" id="Node000003" href="$class_qwt_scale_engine.html" title="Base class for scale engines." alt="" coords="123,81,241,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,124,185,171,179,171,179,124"/>
+<area shape="rect" id="Node000004" href="$class_qwt_scale_widget.html" title="A Widget which contains a scale." alt="" coords="264,81,382,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="301,121,263,150,216,174,214,169,260,146,298,116"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="287,5,359,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="326,47,326,81,321,81,321,47"/>
+</map>

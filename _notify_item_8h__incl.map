@@ -1,0 +1,12 @@
+<map id="src/Plugins/System/_Notifications/NotifyItem.h" name="src/Plugins/System/_Notifications/NotifyItem.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,182,48"/>
+<area shape="rect" id="Node000002" href="$_fact_8h.html" title=" " alt="" coords="9,96,98,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,50,69,83,64,81,81,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="62,320,125,347"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="102,48,112,96,119,184,112,272,105,306,100,305,107,272,114,184,107,96,97,49"/>
+<area shape="rect" id="Node000003" href="$_fact_data_8h.html" title=" " alt="" coords="11,171,96,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="56,123,56,155,51,155,51,123"/>
+<area shape="rect" id="Node000004" href="$_fact_base_8h.html" title=" " alt="" coords="9,245,98,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="56,198,56,230,51,230,51,198"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="63,271,82,305,77,308,58,274"/>
+</map>
